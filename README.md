@@ -1,0 +1,1 @@
+This app lets you CRUD: Create, Read, Update, and Delete different recipes. It provides the user with a form that allows input.
